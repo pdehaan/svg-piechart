@@ -1,0 +1,27 @@
+{
+  "name": "svg-piechart",
+  "authors": [
+    "Uemit Seren <uemit.seren@gmail.com>"
+  ],
+  "description": "Element to draw a piechart on a SVG.",
+  "keywords": "svg, piechart, polymer, web-components",
+  "main": "svg-piechart.html",
+  "license": "MIT",
+  "homepage": "https://github.com/timeu/svg-piechart/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "_release": "852aea7130",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "852aea7130b391990cac982553e9503e2f282af5"
+  },
+  "_source": "git://github.com/timeu/svg-piechart.git",
+  "_target": "master",
+  "_originalSource": "timeu/svg-piechart",
+  "_direct": true
+}
